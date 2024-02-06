@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Law of attraction &#8211; BookSpot</title>
+	<atom:link href="https://patadiarushabh19.github.io/BookSpot/product-tag/law-of-attraction/feed/" rel="self" type="application/rss+xml" />
+	<link>https://patadiarushabh19.github.io/BookSpot</link>
+	<description></description>
+	<lastBuildDate>Tue, 23 Jan 2024 16:03:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Think and Grow Rich</title>
+		<link>https://patadiarushabh19.github.io/BookSpot/product/think-and-grow-rich/</link>
+					<comments>https://patadiarushabh19.github.io/BookSpot/product/think-and-grow-rich/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Tue, 23 Jan 2024 16:03:15 +0000</pubDate>
+				<guid isPermaLink="false">https://patadiarushabh19.github.io/BookSpot/?post_type=product#038;p=757</guid>
+
+					<description><![CDATA[Description: This classic wealth-building guide emphasizes the power of mindset and offers timeless principles for achieving success. Author Name: Napoleon Hill Tags: Motivation, Success principles, Law of attraction, Wealth mindset]]></description>
+										<content:encoded><![CDATA[<ol data-sourcepos="3:1-8:32">
+<li data-sourcepos="22:1-22:140">
+<p data-sourcepos="22:4-22:140"><strong>Description:</strong> This classic wealth-building guide emphasizes the power of mindset and offers timeless principles for achieving success.</p>
+</li>
+<li data-sourcepos="23:1-23:33">
+<p data-sourcepos="23:4-23:33"><strong>Author Name:</strong> Napoleon Hill</p>
+</li>
+<li data-sourcepos="24:1-24:20"><strong>Tags:</strong> Motivation, Success principles, Law of attraction, Wealth mindset</li>
+</ol>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://patadiarushabh19.github.io/BookSpot/product/think-and-grow-rich/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

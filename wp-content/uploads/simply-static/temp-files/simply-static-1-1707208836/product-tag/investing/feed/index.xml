@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Investing &#8211; BookSpot</title>
+	<atom:link href="https://patadiarushabh19.github.io/BookSpot/product-tag/investing/feed/" rel="self" type="application/rss+xml" />
+	<link>https://patadiarushabh19.github.io/BookSpot</link>
+	<description></description>
+	<lastBuildDate>Tue, 23 Jan 2024 15:57:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>I Will Teach You to Be Rich</title>
+		<link>https://patadiarushabh19.github.io/BookSpot/product/i-will-teach-you-to-be-rich/</link>
+					<comments>https://patadiarushabh19.github.io/BookSpot/product/i-will-teach-you-to-be-rich/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Tue, 23 Jan 2024 15:57:16 +0000</pubDate>
+				<guid isPermaLink="false">https://patadiarushabh19.github.io/BookSpot/?post_type=product#038;p=745</guid>
+
+					<description><![CDATA[Ditch the financial jargon and build wealth like a boss with actionable tips on budgeting, investing, and achieving financial freedom.]]></description>
+										<content:encoded><![CDATA[<ol data-sourcepos="3:1-8:32">
+<li data-sourcepos="3:1-3:45">
+<p data-sourcepos="3:4-3:45"><strong>Book Name:</strong> I Will Teach You to Be Rich</p>
+</li>
+<li data-sourcepos="4:1-4:154">
+<p data-sourcepos="4:4-4:154"><strong>Description:</strong> Ditch the financial jargon and build wealth like a boss with actionable tips on budgeting, investing, and achieving financial freedom.</p>
+</li>
+<li data-sourcepos="5:1-5:31">
+<p data-sourcepos="5:4-5:31"><strong>Author Name:</strong> Ramit Sethi</p>
+</li>
+<li data-sourcepos="7:1-7:28">
+<p data-sourcepos="7:4-7:28"><strong>Category:</strong> Non-fiction</p>
+</li>
+<li data-sourcepos="8:1-8:32">
+<p data-sourcepos="8:4-8:74"><strong>Tags:</strong> Financial literacy, Investing, Self-improvement, Young adults</p>
+</li>
+</ol>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://patadiarushabh19.github.io/BookSpot/product/i-will-teach-you-to-be-rich/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
